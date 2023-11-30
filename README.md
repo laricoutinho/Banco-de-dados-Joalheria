@@ -4,9 +4,10 @@ Cenário:
 Uma joalheria online tem a intenção de implementar um sistema de gerenciamento para seu E-commerce, visando aprimorar a gestão do seu processo de vendas. Deseja-se que todos os produtos disponíveis estejam devidamente cadastrados, incluindo informações como nome, preço e quantidade em estoque, também é preciso identificar os detalhes técnicos como o material, peso, acabamento e lapidação, bem como os dados do designer responsável pela criação da peça, contendo seu nome, contato e especialização. Além disso, é essencial efetuar o gerenciamento das categorias às quais os produtos estão associados, seja colar, pulseira, brinco, entre outros, assim como definir o estilo de cada item. É necessário manter um registro completo dos clientes, contemplando nome, endereço, e-mail, CPF e gênero. Este registro deve ser complementado pelas informações relativas aos pedidos efetuados pelos clientes, registrados por número, data, status e valor correspondentes.
 
 Modelo Conceitual:
-Modelo Conceitual
 
-O modelo conceitual representa a estrutura geral do sistema, identificando as principais entidades e seus relacionamentos.
+![Modelo Conceitual](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/a943591faa886b0e8213059d45ec9bec1ca9c5d4/modeloconceitual.png)
+
+O modelo conceitual representa a estrutura geral do sistema, identificando as principais entidades, seus atributos e seus relacionamentos.
 
 Modelo Lógico:
 Modelo Lógico
@@ -14,7 +15,6 @@ Modelo Lógico
 O modelo lógico traduz o modelo conceitual para uma representação mais detalhada, mostrando as tabelas, seus atributos e as relações entre elas.
 
 Inserção de Dados:
-Inserção de Dados
 
 Esta seção apresenta exemplos de como os dados podem ser inseridos no banco de dados, garantindo que as informações estejam corretamente organizadas.
 
