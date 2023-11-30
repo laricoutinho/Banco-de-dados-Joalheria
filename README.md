@@ -47,26 +47,37 @@ Esta seção apresenta como o modelo físico foi implementado e como foi feita a
 ![INSERT DADOS 9](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/7c03a9725a77a33c0873deb8127c94b0f78f2574/INSERTDADOS9.png)
 
 
-CRUD (Create, Read, Update, Delete):
-Criação de Registros:
+# CRUD (Create, Read, Update, Delete):
+
+Criação dos Registros:
 Create
 
-Exemplos de como criar novos registros para produtos, clientes, designers, categorias e pedidos.
+![CREATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/CREATE.png)
 
 Leitura de Registros:
 Read
 
-Demonstração de como realizar consultas para obter informações específicas, como detalhes de um produto ou histórico de pedidos de um cliente.
+![READ+RESULTADOCREATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/READ%2BRESULTADOCREATE.png)
+
 
 Atualização de Registros:
 Update
+OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 
-Instruções sobre como atualizar informações existentes, por exemplo, modificar o preço de um produto ou atualizar o endereço de um cliente.
+![UPDATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/UPDATE.png
+)
+
+![UPDATERESULTADO](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/UPDATERESULTADO.png)
+
 
 Exclusão de Registros:
 Delete
+OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 
-Explicação de como excluir registros quando necessário, como remover um produto que não está mais disponível.
+![DELETE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/DELETE.png)
+
+![DELETERESULTADO](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/DELETERESULTADO.png)
+
 
 Relatórios:
 Seleção:
