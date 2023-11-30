@@ -82,3 +82,22 @@ OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 # Relatórios:
 Esta aba contém prints de 10 consultas realizadas para exibir os dados do banco. 
 
+![1](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/1.png)
+![2](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/2.png
+)
+![3](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/3.png
+)
+![4](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/4.png)
+![5](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/5.png)
+![6](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/6.png)
+![7](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/7.png
+)
+![8](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/8.png
+)
+![9](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/9.png
+)
+![10]()
+![11]()
+![12]()
+![13]()
+
