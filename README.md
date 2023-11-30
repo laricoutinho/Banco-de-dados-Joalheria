@@ -79,18 +79,6 @@ OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 ![DELETERESULTADO](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/DELETERESULTADO.png)
 
 
-Relatórios:
-Seleção:
-Seleção
+# Relatórios:
+Esta aba contém prints de 10 consultas realizadas para exibir os dados do banco. 
 
-Exemplos de consultas que selecionam dados específicos, como listar todos os produtos de uma determinada categoria.
-
-Filtro:
-Filtro
-
-Demonstração de como aplicar filtros para obter informações mais refinadas, por exemplo, mostrar apenas os clientes que fizeram pedidos nos últimos 30 dias.
-
-Ordenação:
-Ordenação
-
-Instruções sobre como ordenar os resultados, como listar os produtos por ordem alfabética de nome.
