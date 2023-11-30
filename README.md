@@ -50,18 +50,18 @@ Esta seção apresenta como o modelo físico foi implementado e como foi feita a
 # CRUD (Create, Read, Update, Delete):
 
 Criação dos Registros:
-Create
+# Create
 
 ![CREATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/CREATE.png)
 
 Leitura de Registros:
-Read
+# Read
 
 ![READ+RESULTADOCREATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/READ%2BRESULTADOCREATE.png)
 
 
 Atualização de Registros:
-Update
+# Update
 OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 
 ![UPDATE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/UPDATE.png
@@ -71,7 +71,7 @@ OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 
 
 Exclusão de Registros:
-Delete
+# Delete
 OBS: A 1ª imagem é a execução e a 2ª é a "resposta".
 
 ![DELETE](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/f3bdc1a32fdee84ee326dace707910b6084edffe/DELETE.png)
