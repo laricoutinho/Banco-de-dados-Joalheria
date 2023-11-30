@@ -96,8 +96,8 @@ Esta aba contém prints de 10 consultas realizadas para exibir os dados do banco
 )
 ![9](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/127ac836b34de788a739afbff1d7daf234c96336/9.png
 )
-![10]()
-![11]()
-![12]()
-![13]()
+![10](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/3bb57bd5938a0631f195d8f48c04f52fb0144838/10.png)
+![11](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/3bb57bd5938a0631f195d8f48c04f52fb0144838/11.png)
+![12](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/3bb57bd5938a0631f195d8f48c04f52fb0144838/12.png)
+![13](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/3bb57bd5938a0631f195d8f48c04f52fb0144838/13.png)
 
