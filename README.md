@@ -1,4 +1,4 @@
-# README - Banco de dados Joalheria
+# Banco de dados Joalheria
 
 # Cenário:
 
